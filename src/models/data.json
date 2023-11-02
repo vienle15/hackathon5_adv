@@ -1,0 +1,146 @@
+[
+  {
+    "id": 6853,
+    "name": "AirPods Pro",
+    "price": 249,
+    "image": "https://i.imgur.com/9QtYXwu.jpg"
+  },
+  {
+    "id": 2589,
+    "name": "Nintendo Switch",
+    "price": 299,
+    "image": "https://i.imgur.com/NjB1B10.jpg"
+  },
+  {
+    "id": 4858,
+    "name": "PS5",
+    "price": 499,
+    "image": "https://i.imgur.com/0GPFIYa.jpg"
+  },
+  {
+    "id": 8276,
+    "name": "Xbox Series X",
+    "price": 499,
+    "image": "https://i.imgur.com/B9ePUN9.jpg"
+  },
+  {
+    "id": 8363,
+    "name": "Iphone 14 Pro Max - 1TB",
+    "price": 1599,
+    "image": "https://i.imgur.com/RDL6SnJ.jpg"
+  },
+  {
+    "id": 9238,
+    "name": "Samsung S23 Ultra - 1TB",
+    "price": 1499,
+    "image": "https://i.imgur.com/KyWHsKW.jpg"
+  },
+  {
+    "id": 8148,
+    "name": "MacBook Pro 14' M2 Max (64GB RAM | 4TB)",
+    "price": 4699,
+    "image": "https://i.imgur.com/6QjVUZV.jpg"
+  },
+  {
+    "id": 3406,
+    "name": "2023 Mac Studio M1 Ultra (128GB RAM | 8TB)",
+    "price": 6999,
+    "image": "https://i.imgur.com/fminWBH.jpg"
+  },
+  {
+    "id": 1472,
+    "name": "Pro Gaming PC(I9 13900K, RTX 4090, 64GB, 4TB SSD)",
+    "price": 6950,
+    "image": "https://i.imgur.com/diqWGS7.jpg"
+  },
+  {
+    "id": 1274,
+    "name": "Razer Blade 14 Top spec (2023)",
+    "price": 2799,
+    "image": "https://i.imgur.com/C91Spgr.jpg"
+  },
+  {
+    "id": 1153,
+    "name": "Ipad Air M1 Chip (2023) (256GB)",
+    "price": 749,
+    "image": "https://i.imgur.com/6cs5d6D.jpg"
+  },
+  {
+    "id": 9474,
+    "name": "Tesla Bot (Available 2024)",
+    "price": 20000,
+    "image": "https://i.imgur.com/1zf8Od2.jpg"
+  },
+  {
+    "id": 3463,
+    "name": "Start your own StartUp",
+    "price": 5000000,
+    "image": "https://i.imgur.com/F8tPuHG.jpg"
+  },
+  {
+    "id": 7158,
+    "name": "Open Fast Food Franchise",
+    "price": 1500000,
+    "image": "https://i.imgur.com/LSZCZfI.jpg"
+  },
+  {
+    "id": 5637,
+    "name": "Spotify for 80 years",
+    "price": 10600,
+    "image": "https://i.imgur.com/sgDA4Jc.jpg"
+  },
+  {
+    "id": 4153,
+    "name": "Entire Steam library (2023 - No discounts)",
+    "price": 728000,
+    "image": "https://i.imgur.com/6GP748G.jpg"
+  },
+  {
+    "id": 4634,
+    "name": "Netflix for 80 Years",
+    "price": 16500,
+    "image": "https://i.imgur.com/zGaCSFJ.jpg"
+  },
+  {
+    "id": 9197,
+    "name": "Entire production of Nvidia GPUs for 2023",
+    "price": 900000000,
+    "image": "https://i.imgur.com/kjmUU0f.jpg"
+  },
+  {
+    "id": 3076,
+    "name": "Influence 1 high ranking politician",
+    "price": 2000000,
+    "image": "https://i.imgur.com/7IB3CLt.jpg"
+  },
+  {
+    "id": 9116,
+    "name": "Private Concert with ANY Super Star",
+    "price": 1000000,
+    "image": "https://i.imgur.com/qjQqs0v.jpg"
+  },
+  {
+    "id": 8512,
+    "name": "Give 10,000 USD to 5000 people",
+    "price": 50000000,
+    "image": "https://i.imgur.com/NE7sbRU.jpg"
+  },
+  {
+    "id": 8438,
+    "name": "LG 88' OLED 8K ThinQ®",
+    "price": 19990,
+    "image": "https://i.imgur.com/TGGOqdl.jpg"
+  },
+  {
+    "id": 3912,
+    "name": "Fiat 500",
+    "price": 19000,
+    "image": "https://i.imgur.com/sk9EP1i.jpg"
+  },
+  {
+    "id": 6737,
+    "name": "Toyota Camry",
+    "price": 29000,
+    "image": "https://i.imgur.com/yfQjaS6.jpg"
+  }
+]

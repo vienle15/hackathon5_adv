@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.card-img-top {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.card-text {
+  font-size: 16px;
+  margin: 10px 0;
+  color: white;
+}
+
+.btn {
+  margin: 5px;
+}
+.card-body {
+  background-color: grey;
+}
+.container {
+  display: flex;
+}
